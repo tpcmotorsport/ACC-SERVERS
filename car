@@ -28,3 +28,6 @@
     "carClass": "",
     "firstSeen": "2026-05-08T15:05:52.1863713Z"
   }
+
+
+/api/plugin/driver-info?token=<licence_token>
